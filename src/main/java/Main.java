@@ -23,6 +23,17 @@ public class Main {
         h.pensar();
         h.cacar();
         h.correr();
+        
+        /*
+        Saída:
+        O Cachorro está respirando...
+        O Cachorro está cançando...
+        O Cachorro corre em uma velocidade de 10.0
+        O Homem está respirando...
+        O Homem está pensando...
+        O Homem está cançando...
+        O Homem corre em uma velocidade de 5.0
+        */
 
     }
 
