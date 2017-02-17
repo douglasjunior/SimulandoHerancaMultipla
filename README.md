@@ -1,5 +1,6 @@
-# SimulandoHerancaMultipla
-Exemplo de simulação de herança múltipla utilizando o modificador "default" do Java 8
+# Simulando Herança Múltipla de Tipos e Implementações em Java
+
+Exemplo de simulação de herança múltipla de tipos e implementações utilizando o modificador "default" do Java 8.
 
 Segundo a documentação da Oracle sobre [Multiple Inheritance of State, Implementation, and Type](https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html)
 
