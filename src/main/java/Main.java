@@ -1,7 +1,5 @@
-
 import com.github.douglasjunior.simulandoherancamultipla.implementacao.Cachorro;
 import com.github.douglasjunior.simulandoherancamultipla.implementacao.Homem;
-import com.github.douglasjunior.simulandoherancamultipla.interfaces.Animal;
 
 /**
  *
